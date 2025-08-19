@@ -1,3 +1,7 @@
 
 b+c=d
 c+d=e
+<<<<<<< HEAD
+=======
+d=b
+>>>>>>> cf731b1 (removing a from d+a=b)
