@@ -2,6 +2,10 @@
 b+c=d
 c+d=e
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 d=b
 >>>>>>> cf731b1 (removing a from d+a=b)
+=======
+d+a=b
+>>>>>>> 9b237e1 (Revert "removing a from d+a=b")
